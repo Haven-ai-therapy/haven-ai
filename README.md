@@ -1,7 +1,7 @@
 # haven-ai
 
  This project is in collaboration with joejoe135791, iris and siggy. [Check out our discord](https://discord.gg/dPjRmm6SEs)
-  To install the discord bot. download and install node.js and then run ```npm i``` in discord\src  
+  To install the discord bot. download and install node.js and then run ```npm i``` in the discord-bot folder.
     
 
   Health Accomadating Virtual Engine Network or (H.A.V.E.N.) is an Artificial Intelligence (A.I.) Designed to be a virtual assisstant and therapist.  
