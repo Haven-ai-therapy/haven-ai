@@ -1,0 +1,9 @@
+wave
+torch
+pyaudio
+webrtcvad
+playsound==1.2.2
+sounddevice
+transformers
+tensorflow
+requests
