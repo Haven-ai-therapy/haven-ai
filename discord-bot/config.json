@@ -1,0 +1,7 @@
+{
+    "token": "DISCORD BOT TOKEN",
+    "clientId": "DISCORD BOT CLIENTID",
+    "carterkey": "4sHpVFHjcImVbqEoAfbPXKsCrT1WsmZq",
+    "channelmode": "on or off",
+    "channelid": "ID of channel if channelmode is set to on"
+}
