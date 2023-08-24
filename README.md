@@ -1,5 +1,12 @@
 # haven-ai
 
+this project has been archived due to carterlabs (formerly carterapi) sunsetting the API on September 1st. haven is still available and you can message them [here](https://www.carter.chat/agent/649f2e847579c18c6eb4792b/joejoe/h.a.v.e.n).
+
+thank you for all the support.
+-joejoe
+
+
+
  This project is in collaboration with joejoe135791, iris and siggy. [Check out our discord](https://discord.gg/dPjRmm6SEs)
   To install the discord bot. download and install node.js and then run ```npm i``` in the discord-bot folder.
     
